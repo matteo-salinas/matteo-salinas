@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=matteo-salinas&style=flat-square)
+
 <!--
 **matteo-salinas/matteo-salinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
